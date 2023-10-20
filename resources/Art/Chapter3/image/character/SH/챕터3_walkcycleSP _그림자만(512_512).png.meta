@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 058fed47f800ff44492fc8925058e865
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6087958443618656205
+    second: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_0"
+  - first:
+      213: 4842567818366488712
+    second: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_1"
+  - first:
+      213: -6485636024607051478
+    second: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_2"
+  - first:
+      213: -5033067290225467783
+    second: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_3"
+  - first:
+      213: -3765852064901767928
+    second: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_4"
+  - first:
+      213: -1359303942626422807
+    second: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_5"
+  - first:
+      213: 951609683630643581
+    second: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_6"
+  - first:
+      213: -2350090396163498741
+    second: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_7"
+  - first:
+      213: -8800583363791981051
+    second: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_8"
+  - first:
+      213: 8697723388916043045
+    second: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_9"
+  - first:
+      213: 5780611946357423758
+    second: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_10"
+  - first:
+      213: -5945774455392205848
+    second: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_11"
+  - first:
+      213: -616085607577689217
+    second: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_12"
+  - first:
+      213: 683489951845559656
+    second: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_13"
+  - first:
+      213: 6699869198654032094
+    second: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_14"
+  - first:
+      213: -4131838084927201303
+    second: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_15"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd32b17d459a8604d987c5dcd1219fcc
+      internalID: 6087958443618656205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_1"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b23097f623aaa40bcc1c94a3a00d5a
+      internalID: 4842567818366488712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_2"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bbe4e9947869f4092eacadb57f6edd
+      internalID: -6485636024607051478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_3"
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b62c3fa014b34e4b8308beb8281a3a7
+      internalID: -5033067290225467783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59caa768cbd815b44ab5b89dfcfda298
+      internalID: -3765852064901767928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_5"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb1c65b2561f0e46b1d21cb1bddb8d1
+      internalID: -1359303942626422807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_6"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e294a54f186d9044ae54905c5d8f50a
+      internalID: 951609683630643581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_7"
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fa6d5fa1c19994aaf9474d14e1c84d
+      internalID: -2350090396163498741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a99ccdda4b8cb48a4c61e58aaea047
+      internalID: -8800583363791981051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_9"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421fe24dc09ff09429261289f7b17a55
+      internalID: 8697723388916043045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_10"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea7d73518e2efe4aac614b72386af81
+      internalID: 5780611946357423758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_11"
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9959bad31b6c040b1d12c249ea31bd
+      internalID: -5945774455392205848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d57e04db366ce43a76e26d351d450d
+      internalID: -616085607577689217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_13"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffb4c8457734644f997ae20e1609deb
+      internalID: 683489951845559656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_14"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e6036e6d2579e48960dcf9016a271e
+      internalID: 6699869198654032094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uCC55\uD1303_walkcycleSP _\uADF8\uB9BC\uC790\uB9CC(512_512)_15"
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0958c091b1a913d4fab4411338128a62
+      internalID: -4131838084927201303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

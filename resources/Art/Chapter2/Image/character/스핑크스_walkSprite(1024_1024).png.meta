@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 72fb1a73b4552bc40afc07db6990a61e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6877512087813967311
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_0"
+  - first:
+      213: 5412857125235987581
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_1"
+  - first:
+      213: 6766492468933035738
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_2"
+  - first:
+      213: -3439523147877319844
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_3"
+  - first:
+      213: -2227163491471040147
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_4"
+  - first:
+      213: 8042381388763598756
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_5"
+  - first:
+      213: -5626664455903464889
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_6"
+  - first:
+      213: -5131948715540245967
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_7"
+  - first:
+      213: -8417262174937053743
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_8"
+  - first:
+      213: -1635869766029852224
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_9"
+  - first:
+      213: -5613836878985805876
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_10"
+  - first:
+      213: -4452858096371085890
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_11"
+  - first:
+      213: 3715683981598868092
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_12"
+  - first:
+      213: 8359897729396178296
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_13"
+  - first:
+      213: -7728691169969898442
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_14"
+  - first:
+      213: -1363695442590241821
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_15"
+  - first:
+      213: 2335038109521634913
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_16"
+  - first:
+      213: -7308361062008567403
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_17"
+  - first:
+      213: 7046566996106046329
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_18"
+  - first:
+      213: 3656343637421815827
+    second: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_19"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0a7e70e0a482a469e5df6564ced7b5
+      internalID: -6877512087813967311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_1"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272d39cc02e5fce4ea4edb4f8d955c25
+      internalID: 5412857125235987581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_2"
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bef33e2eae101408ec8e9a0bb78c27
+      internalID: 6766492468933035738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_3"
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c584b9b7050ba94dba5f1288a562296
+      internalID: -3439523147877319844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_4"
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3072
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3bc52e7b5baf3459b220c8c5f0b3d9
+      internalID: -2227163491471040147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5af077a9e4cb8942adccd0f582ddb5d
+      internalID: 8042381388763598756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_6"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989e28d8a416a9440817eb5d4fd796da
+      internalID: -5626664455903464889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_7"
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87a5e3b6ae05a64f8f82794a330da94
+      internalID: -5131948715540245967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_8"
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9834c68ee96f3924f8465dbc0b61f9a8
+      internalID: -8417262174937053743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_9"
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2048
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44957e30c07eb974e9feaf90e3590408
+      internalID: -1635869766029852224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58715a55b02377479ad8d341b74717d
+      internalID: -5613836878985805876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_11"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01274f1ed9397794fa1833a712f54655
+      internalID: -4452858096371085890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_12"
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeb6d89d2d4dfd489e875b8506ba32c
+      internalID: 3715683981598868092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_13"
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76998f8b4c6e3644d92c66553be4f4bc
+      internalID: 8359897729396178296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_14"
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a369b8c477f34f34a80b64585d9b43ab
+      internalID: -7728691169969898442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4cf1eee38756644a261a1d92cccbe1
+      internalID: -1363695442590241821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_16"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c732dee402af0fd4db5988a3604cd98c
+      internalID: 2335038109521634913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_17"
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99612fbe28bcab74789581b9215362d4
+      internalID: -7308361062008567403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_18"
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cd1c9d5d2257144b3cc1ada743574e
+      internalID: 7046566996106046329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\uC2A4\uD551\uD06C\uC2A4_walkSprite(1024_1024)_19"
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2818f1edb5e860b4ca493d817c0a2ea1
+      internalID: 3656343637421815827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
